@@ -9,6 +9,7 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 ### $$± Ax^2 ± By^2 ± Cx ± Dy ± [ignorable-number] = 0$$
 **中，要计算的有X, Y, a, b, c, r (半径)**
+
 $$a=|\sqrt B|$$
 $$b=|\sqrt A|$$
 $$X=-(\frac{C/A}2)\qquad$$
@@ -17,6 +18,7 @@ $$a^2+b^2=c^2$$
 $$r=\sqrt {A\times C}$$
 
 ***一般情况下不用算r**
+
 ***计算X和Y的时候要带上正负。**
 $$Center = (X，Y)$$
 $$FocalLength = c$$
@@ -30,6 +32,7 @@ $$Asymptotes: y=\frac{b}{a}(x-X)+Y， and， y=\frac{-b}{a}(x-X)+Y$$
 $$Vertices: (X+a， Y)， and, (X-a， Y)$$
 $$Co-Vertices: (X， Y-b)， and， (X， Y-b)$$
 $$Foci: (X+c，Y) ，and， (X-c， Y)$$
+
 如果性质是(y-x): 
 $$vertices: (X， Y+b)，and， (X， Y-b)$$
 $$Co-vertices: (X+a， Y)，and， (X-a， Y)$$
