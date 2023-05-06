@@ -11,10 +11,15 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 **中，要计算的有X, Y, a, b, c, r (半径)**
 
 $$a=|\sqrt B|$$
+
 $$b=|\sqrt A|$$
+
 $$X=-(\frac{C/A}2)\qquad$$
+
 $$Y=-(\frac{D/B}2)\qquad$$
+
 $$a^2+b^2=c^2$$
+
 $$r=\sqrt {A\times C}$$
 
 ***一般情况下不用算r。**
