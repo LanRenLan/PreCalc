@@ -45,6 +45,11 @@ $$Co-vertices: (X+a， Y)，and， (X-a， Y)$$
 $$Foci: (X， Y+c)， and， (X，Y-c)$$
 
 注意Vertices：X永远都是加减a，Y永远都是加减b，而不同的性质，只是把vertices 和co-vertices 的名字反过来了而已，方程没有变化
+--------------------------------------------------------------------
+## lim
+$$\\lim_{x \\to \\infty} \frac{x^2}x\qquad$$
 
+**lim to ∞的时候，忽略所有低次方的x，分子和分母都只用最高的一个。如果次方数量上大下小，代表DNE；如果次方数量下大上小，代表0；如果同等次方，那就是双方的系数相除。（Limits to Infinity (Type 1))**
 
-
+$$\\lim_{x \\to \\infty} \frac{sin(x)}x=1\qquad$$
+**这个是要背下来的常识，不过就这一个，cosine没有**
