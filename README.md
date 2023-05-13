@@ -53,3 +53,11 @@ $$\\lim_{x \\to \\infty} \frac{x^2}x\qquad$$
 
 $$\\lim_{x \\to \\infty} \frac{sin(x)}x=1\qquad$$
 **这个是要背下来的常识，不过就这一个，因为cosine没有**
+
+Limits Analytically--trig延后
+Types of Discontinoities (Graphically)在教科书PDF P.95
+
+Continuity: 
+
+$$f(x) = \\begin{cases} x^2 & \\text{if } x \\geq 0 \\\\-x^2 & \\text{if } x < 0 \\end{cases}$$
+**这种情况是continue，而如果x在右边则可能是discontinue，需要计算两个function，如果值不一样才是discontinue**
