@@ -55,6 +55,7 @@ $$\\lim_{x \\to \\infty} \frac{sin(x)}x=1\qquad$$
 **这个是要背下来的常识，不过就这一个，因为cosine没有**
 
 Limits Analytically--trig延后
+Continuity - Find K延后
 Types of Discontinoities (Graphically)在教科书PDF P.95
 
 Continuity: 
