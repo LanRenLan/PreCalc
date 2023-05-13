@@ -58,7 +58,7 @@ Limits Analytically--trig延后
 Continuity - Find K看不懂
 Intermediate Value Theorem看不懂
 Types of Discontinoities (Graphically)在教科书PDF P.95
-
+limit 练习题P。103
 Continuity: 
 
 $$f(x) = \\begin{cases} x^2 & \\text{if } x \\geq 0 \\\\-x^2 & \\text{if } x < 0 \\end{cases}$$
