@@ -62,4 +62,13 @@ limit 练习题P。103
 Continuity: 
 
 $$f(x) = \\begin{cases} x^2 & \\text{if } x \\geq 0 \\\\-x^2 & \\text{if } x < 0 \\end{cases}$$
+
 **这种情况是continue，而如果x在右边则可能是discontinue，需要计算两个function，如果值不一样才是discontinue**
+
+**找tangent line的function**
+
+example：
+
+$$f(x)=\frac{x}{x+4},\quad(-5,5)$$
+
+先找出一阶导数 f'(x) = \frac{4}{(x+4)^2} ，再把x坐标点的-5带进x得到4，再用linear公式y - y1 = m(x - x1)代y - 5 = 4(x - (-5))，y=4x+25
