@@ -51,13 +51,21 @@ $$\\lim_{x \\to \\infty} \frac{x^2}x\qquad$$
 
 **lim to ∞的时候，忽略所有低次方的x，分子和分母都只用最高的一个。如果次方数量上大下小，代表DNE；如果次方数量下大上小，代表0；如果同等次方，那就是双方的系数相除。（Limits to Infinity (Type 1))**
 
+证明的方法：例题：
+$$\lim_{x\to\infty}\frac{2x^6+x^3-36}{8x^2+2x^5}$$
+
+解题思路：
+$$\lim_{x\to\infty}\frac{2x^{6}+x^{3}-36}{8x^{2}+2x^{5}}\times\frac{\frac{1}{x^{6}}}{\frac{1}{x^{6}}}$$
+
+-------------------
+
 $$\\lim_{x \\to \\infty} \frac{sin(x)}x=1\qquad$$
 **这个是要背下来的常识，不过就这一个，因为cosine没有**
 
 Limits Analytically--trig延后
 Continuity - Find K看不懂
 Intermediate Value Theorem看不懂
-Types of Discontinoities (Graphically)在教科书PDF P.95
+Types of Discontinuities (Graphically)在教科书PDF P.95
 limit 练习题P。103
 Continuity: 
 
@@ -71,4 +79,11 @@ example：
 
 $$f(x)=\frac{x}{x+4},\quad(-5,5)$$
 
-先找出一阶导数 f'(x) = \frac{4}{(x+4)^2} ，再把x坐标点的-5带进x得到4，再用linear公式y - y1 = m(x - x1)代y - 5 = 4(x - (-5))，y=4x+25
+先找出一阶导数 $f'(x) = \frac{4}{(x+4)^2}$ ，再把x坐标点的-5带进x得到4，再用linear公式 $y-y_1=m(x-x_1)\implies y-5=4(x-(-5))\implies y=4x+25$ 
+
+Calc AB:
+
+对于
+$$\lim_{x\to0}\frac{\sin(x)}{2x}$$
+这种问题，可以使用洛必达（L'Hôpital）规则，这个规则适用于代入精确的x值之后，如 $\frac{\infty}{\infty}$ 或者 $\frac{0}{0}$ 的不定型极限，该极限会等于 $\lim_{x\to a}\frac{f(x)}{g(x)}=\lim_{x\to a}\frac{f^{\prime}(x)}{g^{\prime}(x)}$ ，所以 
+$$\lim_{x\to0}\frac{\cos(x)}2=\frac{\cos(0)}2=\frac12$$
