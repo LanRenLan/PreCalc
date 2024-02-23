@@ -87,3 +87,8 @@ Calc AB:
 $$\lim_{x\to0}\frac{\sin(x)}{2x}$$
 这种问题，可以使用洛必达（L'Hôpital）规则，这个规则适用于代入精确的x值之后，如 $\frac{\infty}{\infty}$ 或者 $\frac{0}{0}$ 的不定型极限，该极限会等于 $\lim_{x\to a}\frac{f(x)}{g(x)}=\lim_{x\to a}\frac{f^{\prime}(x)}{g^{\prime}(x)}$ ，所以 
 $$\lim_{x\to0}\frac{\cos(x)}2=\frac{\cos(0)}2=\frac12$$
+
+
+**Unit 6 Calc**
+U-substitution, try your best to replace something that could be canceled out with the u'. It could be u=sin(2x), or u=2x depending on what you have. 
+/int 1/x = ln x only works for one single x not x^2. 
