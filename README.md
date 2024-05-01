@@ -93,6 +93,7 @@ F'(x)=0 is Critical point
 F''(x) changes sign (+-),is Point of Infaction
 F'(x)=0, and F''(x) is +, there's a relative minimum; if F''(x) is -,there's a relative max
 F''(x)>0 is concave up,F''(x)<0 is concave down. Always true.
+Horizontal tangent line is F'(x)=0, Verticle tangent is F'(x)=DNE. 
 
 **Unit 6 Calc**
 U-substitution, try your best to replace something that could be canceled out with the u'. It could be u=sin(2x), or u=2x depending on what you have. 
