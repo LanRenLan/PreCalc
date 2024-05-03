@@ -95,4 +95,7 @@ Unit 7 G<br>
 这单元有很多ρ（nonuniformed density)的问题，需要记住圆的面积和体积公式。<br>
 善用积分，积分=dx/dx的总和，任何东西都可以被分割成无数份，形成dx。例如星球从地心到地表的距离r可以变成dr，而星球从内向外的密度是ρ*r，那么 $M=\int_{0}^{R} ρr \cdot 4πr^2 \cdot dx$ <br> ，其中ρ是常数，r是每一个粒子从地心到当前位置的距离，R是地表的距离。<br>
 
-
+<img width="1280" alt="ad624ff4f4f835f073ecfbac86f682c" src="https://github.com/LanRenLan/PreCalc/assets/112599739/89aa80a9-8ed6-48ed-88da-d86ee7ec4b36">
+<img width="689" alt="ae0c746f05d8ffdac4ad153b49e2c6f" src="https://github.com/LanRenLan/PreCalc/assets/112599739/b14e27e7-9afc-43fa-bb0e-81ab9ca95b50">
+<img width="851" alt="ee91e735c8c5278bd01523590f7a68f" src="https://github.com/LanRenLan/PreCalc/assets/112599739/0a8d8984-051c-40d4-a27c-60f3de15607b">
+<img width="832" alt="8aec1522f72fd87ec1508fdbc75f7cd" src="https://github.com/LanRenLan/PreCalc/assets/112599739/b3a9e6a5-149b-438a-8869-7a0782221da2">
