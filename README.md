@@ -8,22 +8,15 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 **我用a对应x，b对应y**
 
 ### $$± Ax^2 ± By^2 ± Cx ± Dy ± [ignorable-number] = 0$$
-**中，要计算的有X, Y, a, b, c, r (半径)**
-
+**中，要计算的有X, Y, a, b, c, r (半径)** <br>
 $$a=|\sqrt B|$$
-
 $$b=|\sqrt A|$$
-
 $$X=-(\frac{C/A}2)\qquad$$
-
 $$Y=-(\frac{D/B}2)\qquad$$
-
 $$a^2+b^2=c^2$$
-
 $$r=\sqrt {A\times C}$$
 
-***一般情况下不用算r。**
-
+***一般情况下不用算r。** <br>
 
 ***计算X和Y的时候要带上正负。**
 $$Center = (X，Y)$$
@@ -48,7 +41,6 @@ $$Foci: (X， Y+c)， and， (X，Y-c)$$
 --------------------------------------------------------------------
 ## lim
 $$\\lim_{x \\to \\infty} \frac{x^2}x\qquad$$
-
 **lim to ∞的时候，忽略所有低次方的x，分子和分母都只用最高的一个。如果次方数量上大下小，代表DNE；如果次方数量下大上小，代表0；如果同等次方，那就是双方的系数相除。（Limits to Infinity (Type 1))**
 
 证明的方法：例题：
@@ -57,18 +49,13 @@ $$\lim_{x\to\infty}\frac{2x^6+x^3-36}{8x^2+2x^5}$$
 解题思路：
 $$\lim_{x\to\infty}\frac{2x^{6}+x^{3}-36}{8x^{2}+2x^{5}}\times\frac{\frac{1}{x^{6}}}{\frac{1}{x^{6}}}$$
 
--------------------
-
+-------------------<br>
 $$\\lim_{x \\to \\infty} \frac{sin(x)}x=1\qquad$$
 **这个是要背下来的常识，不过就这一个，因为cosine没有**
 
-Limits Analytically--trig延后
-Continuity - Find K看不懂
-Intermediate Value Theorem看不懂
-Types of Discontinuities (Graphically)在教科书PDF P.95
-limit 练习题P。103
-Continuity: 
-
+Limits Analytically--trig延后<br>
+Types of Discontinuities (Graphically)在教科书PDF P.95<br>
+Continuity: <br>
 $$f(x) = \\begin{cases} x^2 & \\text{if } x \\geq 0 \\\\-x^2 & \\text{if } x < 0 \\end{cases}$$
 
 **这种情况是continue，而如果x在右边则可能是discontinue，需要计算两个function，如果值不一样才是discontinue**
@@ -89,16 +76,23 @@ $$\lim_{x\to0}\frac{\sin(x)}{2x}$$
 $$\lim_{x\to0}\frac{\cos(x)}2=\frac{\cos(0)}2=\frac12$$
 
 **Unit 5 Calc**
-F'(x)=0 is Critical point
-F''(x) changes sign (+-),is Point of Infaction
-F'(x)=0, and F''(x) is +, there's a relative minimum; if F''(x) is -,there's a relative max
-F''(x)>0 is concave up,F''(x)<0 is concave down. Always true.
+F'(x)=0 is Critical point<br>
+F''(x) changes sign (+-),is Point of Infaction<br>
+F'(x)=0, and F''(x) is +, there's a relative minimum; if F''(x) is -,there's a relative max<br>
+F''(x)>0 is concave up,F''(x)<0 is concave down. Always true.<br>
 Horizontal tangent line is F'(x)=0, Verticle tangent is F'(x)=DNE.
 
 **Unit 6 Calc**
-U-substitution, try your best to replace something that could be canceled out with the u'. It could be u=sin(2x), or u=2x depending on what you have. 
+U-substitution, try your best to replace something that could be canceled out with the u'. It could be u=sin(2x), or u=2x depending on what you have. <br>
 /int 1/x = ln x only works for one single x not x^2. 
 
 **Unit 8 Volumes**
-semi circle vol has an extra 1/2 inside
+semi circle vol has an extra 1/2 inside. <br>
 two different triangle volumes. 
+
+**Physics C Mechanics**
+Unit 7 G<br>
+这单元有很多ρ（nonuniformed density)的问题，需要记住圆的面积和体积公式。<br>
+善用积分，积分=dx/dx的总和，任何东西都可以被分割成无数份，形成dx。例如星球从地心到地表的距离r可以变成dr，而星球从内向外的密度是ρ*r，那么 $M=\int_{0}^{R} ρr \cdot 4πr^2 \cdot dx$ <br> ，其中ρ是常数，r是每一个粒子从地心到当前位置的距离，R是地表的距离。<br>
+
+
