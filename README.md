@@ -3,7 +3,7 @@
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 # Math 4 Intro To Pre Calc
-
+如果的代数/小学数学基础学的不扎实，建议做一次SAT 2 模拟题
 ## Find Key Features of a Hyperbola from General Form：
 **我用a对应x，b对应y**
 
