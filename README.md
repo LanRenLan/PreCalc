@@ -99,3 +99,5 @@ Unit 7 G<br>
 <img width="689" alt="ae0c746f05d8ffdac4ad153b49e2c6f" src="https://github.com/LanRenLan/PreCalc/assets/112599739/b14e27e7-9afc-43fa-bb0e-81ab9ca95b50">
 <img width="851" alt="ee91e735c8c5278bd01523590f7a68f" src="https://github.com/LanRenLan/PreCalc/assets/112599739/0a8d8984-051c-40d4-a27c-60f3de15607b">
 <img width="832" alt="8aec1522f72fd87ec1508fdbc75f7cd" src="https://github.com/LanRenLan/PreCalc/assets/112599739/b3a9e6a5-149b-438a-8869-7a0782221da2">
+<img width="392" alt="9ed9704cf176e51e7b5e1b5387e7ef9" src="https://github.com/LanRenLan/PreCalc/assets/112599739/012d0ddf-6f26-44c7-a069-e8202c996a92">
+<img width="359" alt="a1c8e65048c8b685e0fb56e9b463ab2" src="https://github.com/LanRenLan/PreCalc/assets/112599739/c2ac1856-52a1-4e59-aef5-88b4545d95e3">
