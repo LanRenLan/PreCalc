@@ -75,7 +75,7 @@ $$\lim_{x\to0}\frac{\sin(x)}{2x}$$
 这种问题，可以使用洛必达（L'Hôpital）规则，这个规则适用于代入精确的x值之后，如 $\frac{\infty}{\infty}$ 或者 $\frac{0}{0}$ 的不定型极限，该极限会等于 $\lim_{x\to a}\frac{f(x)}{g(x)}=\lim_{x\to a}\frac{f^{\prime}(x)}{g^{\prime}(x)}$ ，所以 
 $$\lim_{x\to0}\frac{\cos(x)}2=\frac{\cos(0)}2=\frac12$$
 
-**Unit 5 Calc**
+**Unit 5 Calc** <br>
 F'(x)=0 is Critical point<br>
 F''(x) changes sign (+-),is Point of Infaction<br>
 F'(x)=0, and F''(x) is +, there's a relative minimum; if F''(x) is -,there's a relative max<br>
