@@ -89,8 +89,11 @@ F'(x)=0, and F''(x) is +, there's a relative minimum; if F''(x) is -,there's a r
 F''(x)>0 is concave up,F''(x)<0 is concave down. Always true.<br>
 Horizontal tangent line is F'(x)=0, Verticle tangent is F'(x)=DNE.
 
-**Unit 6 Calc**
+**Unit 6 Integrals & Fundations**
 $$\lim_{n \to \infty} \sum_{k=1}^n \left(\frac{b-a}{n}\right) \cdot f\left(a + \frac{b-a}{n} \cdot k\right) = \int_a^b f(x) \, dx$$
+$$\frac{d}{dx} \int_{a}^{x} f(t) \ dt = f(x)$$
+$$\frac{d}{dx} \int_{a}^{g(x)} f(t) \ dt = f(g(x)) \cdot g'(x)$$
+$$\frac{d}{dx} \int_{g(x)}^{h(x)} f(t) \ dt = f(h(x)) \cdot h'(x) - f(g(x)) \cdot g'(x)$$
 
 U-substitution, try your best to replace something that could be canceled out with the u'. It could be u=sin(2x), or u=2x depending on what you have. <br>
  $/frac {1}{x} = ln x$ only works for one single $x$ not $x^2$ . 
