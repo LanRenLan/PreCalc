@@ -56,7 +56,14 @@ $$\\lim_{x \\to \\infty} \frac{sin(x)}x=1\qquad$$
 Limits Analytically--trig延后<br>
 Types of Discontinuities (Graphically)在教科书PDF P.95<br>
 Continuity: <br>
-$$f(x) = \\begin{cases} x^2 & \\text{if } x \\geq 0 \\\\-x^2 & \\text{if } x < 0 \\end{cases}$$
+$$
+f(x) = \begin{cases} 
+x^2 & \text{if } x \geq 0 \\
+-x^2 & \text{if } x < 0 
+\end{cases}
+$$
+
+
 
 **这种情况是continue，而如果x在右边则可能是discontinue，需要计算两个function，如果值不一样才是discontinue**
 
@@ -83,14 +90,18 @@ F''(x)>0 is concave up,F''(x)<0 is concave down. Always true.<br>
 Horizontal tangent line is F'(x)=0, Verticle tangent is F'(x)=DNE.
 
 **Unit 6 Calc**
+$$\lim_{n \to \infty} \sum_{k=1}^n \left(\frac{b-a}{n}\right) \cdot f\left(a + \frac{b-a}{n} \cdot k\right) = \int_a^b f(x) \, dx$$
+
 U-substitution, try your best to replace something that could be canceled out with the u'. It could be u=sin(2x), or u=2x depending on what you have. <br>
-/int 1/x = ln x only works for one single x not x^2. 
+ $/frac {1}{x} = ln x$ only works for one single $x$ not $x^2$ . 
 
 **Unit 8 Volumes**
 semi circle vol has an extra 1/2 inside. <br>
 two different triangle volumes. 
 
 **Physics C Mechanics**
+Unit 4<br>
+在过山车的圆环的顶点，Fc=mg+N，如果车在顶点时速度最小，那么N=0。 <br>
 Unit 7 G<br>
 这单元有很多ρ（nonuniformed density)的问题，需要记住圆的面积和体积公式。<br>
 善用积分，积分=dx/dx的总和，任何东西都可以被分割成无数份，形成dx。例如星球从地心到地表的距离r可以变成dr，而星球从内向外的密度是ρ*r，那么 $M=\int_{0}^{R} ρr \cdot 4πr^2 \cdot dx$ <br> ，其中ρ是常数，r是每一个粒子从地心到当前位置的距离，R是地表的距离。<br>
